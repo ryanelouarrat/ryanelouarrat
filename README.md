@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science Engineering stud
 
 ## About Me
 
-- 🌱 Currently learning: React and web development frameworks.
+- 🌱 Currently learning: react-adjustable-calendar packeage.
 - 🔭 Working on: Enhancing my skills in web development and exploring new web technologies.
 - 👯 Looking to collaborate on: Open source projects, innovative web applications, and challenging web development tasks.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rayane-el-ouarrat-460abb22a) | [Email](mailto:ryanelouarrat.pro@gmail.com)
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science Engineering stud
 ## Skills
 
 - **Programming Languages:** Python, C/C++, Assembly, PHP
-- **Web Development:** HTML, CSS, JavaScript, Bootstrap, Laravel, MySQL, APIs, React
+- **Web Development:** HTML, CSS, JavaScript, Bootstrap, Laravel, MySQL, APIs, React, Springboot.
 - **Tools & Technologies:** Git, Adobe Premiere Pro, After Effects, Burp Suite, various web penetration testing tools
 - **Languages:** Arabic, English, French
 
