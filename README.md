@@ -1,4 +1,4 @@
-# Hi there, I'm Rayane El Ouarrat! 👋
+# Hi there, I'm Ryane El Ouarrat! 👋
 
 Welcome to my GitHub profile! I'm a passionate Computer Science Engineering student at ENSA Kenitra with a keen interest in full-stack development and web development frameworks.
 
