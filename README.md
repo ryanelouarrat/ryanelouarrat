@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science Engineering stud
 
 ## About Me
 
-- 🌱 Currently learning: react-adjustable-calendar package, cerberus.
 - 🔭 Working on:Open-source web automation scripts, Modular components for web development, Reusable utilities for frontend workflows
 - 👯 Looking to collaborate on: Open source projects, innovative web applications, and challenging web development tasks.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rayane-el-ouarrat-460abb22a) | [Email](mailto:ryanelouarrat.pro@gmail.com)
